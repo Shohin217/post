@@ -1,0 +1,13 @@
+
+
+export const POST_ADD = 'POST_ADD';
+export const POST_REMOVE = 'POST_REMOVE';
+export const POST_LIKE = 'POST_LIKE';
+
+export const COMMENT_ADD = 'COMMENT_ADD';
+export const COMMENT_REMOVE = 'COMMENT_REMOVE';
+export const COMMENT_LIKE = 'COMMENT_LIKE';
+
+export const ANSWER_COMMENT_ADD = 'ANSWER_COMMENT_ADD';
+export const ANSWER_COMMENT_REMOVE = 'ANSWER_COMMENT_REMOVE';
+export const ANSWER_COMMENT_LIKE = 'ANSWER_COMMENT_LIKE';
